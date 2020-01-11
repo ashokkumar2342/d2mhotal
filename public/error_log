@@ -1,0 +1,4 @@
+[24-Jun-2017 05:59:17 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/d2mhotel/public_html/app/Http/Controllers/Front/ContactController.php on line 47
+[24-Jun-2017 06:00:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/d2mhotel/public_html/app/Http/Controllers/Front/ContactController.php on line 47
+[24-Jun-2017 06:01:08 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/d2mhotel/public_html/app/Http/Controllers/Front/ContactController.php on line 47
+[24-Jun-2017 06:01:11 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/d2mhotel/public_html/app/Http/Controllers/Front/ContactController.php on line 47

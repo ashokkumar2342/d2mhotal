@@ -1,0 +1,2 @@
+[08-Jul-2017 11:59:15 UTC] PHP Fatal error:  Class 'Route' not found in /home/d2mhotel/public_html/routes/admin.php on line 3
+[08-Jul-2017 12:15:47 UTC] PHP Fatal error:  Class 'Route' not found in /home/d2mhotel/public_html/routes/web.php on line 14

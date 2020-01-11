@@ -1,0 +1,7 @@
+[08-Jul-2017 11:49:54 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/BookingRequest.php on line 8
+[08-Jul-2017 11:50:55 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/Gallery.php on line 8
+[08-Jul-2017 11:51:25 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/Contact.php on line 8
+[08-Jul-2017 11:51:50 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/News.php on line 8
+[08-Jul-2017 11:52:00 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/d2mhotel/public_html/app/User.php on line 9
+[08-Jul-2017 12:03:01 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/Gallery.php on line 8
+[08-Jul-2017 12:15:36 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/d2mhotel/public_html/app/Gallery.php on line 8

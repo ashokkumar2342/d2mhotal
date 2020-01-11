@@ -1,0 +1,2 @@
+[08-Jul-2017 11:51:11 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/d2mhotel/public_html/app/Http/Controllers/Admin/DashboardController.php on line 9
+[08-Jul-2017 11:51:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/d2mhotel/public_html/app/Http/Controllers/Admin/BookingRequestController.php on line 10

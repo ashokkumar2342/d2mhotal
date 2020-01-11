@@ -1,0 +1,2 @@
+[08-Jul-2017 11:51:38 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/d2mhotel/public_html/app/Mail/BookingMail.php on line 12
+[08-Jul-2017 11:51:42 UTC] PHP Fatal error:  Class 'Illuminate\Mail\Mailable' not found in /home/d2mhotel/public_html/app/Mail/ContactUsMail.php on line 12
